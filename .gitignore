@@ -1,0 +1,5 @@
+.env
+faiss_index.bin
+metadata.pkl
+__pycache__/
+node_modules
